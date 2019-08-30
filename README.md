@@ -3,15 +3,15 @@ summer python + socket study
 
 # features
 
-![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap04.png?raw=true)
+![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap02.png?raw=true)
 - first window
 
 
-![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap02.png?raw=true)
+![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap03.png?raw=true)
 - waiting room with information
 
 
-![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap03.png?raw=true)
+![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap04.png?raw=true)
 - when user leave
 
 
@@ -22,7 +22,7 @@ summer python + socket study
 # Update
 -------------------------------------------------------
 0827
-first commit
++ first commit
 
 0830
 + waiting room
