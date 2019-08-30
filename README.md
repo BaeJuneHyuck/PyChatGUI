@@ -1,24 +1,28 @@
 # PyChatGUI
 summer python + socket study 
 
-# Preview
+# features
 
-![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/01.png?raw=true)
-- select chat room
-
-
-![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/02.png?raw=true)
-- multipler users
+![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap04.png?raw=true)
+- first window
 
 
-![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/03.png?raw=true)
+![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap02.png?raw=true)
+- waiting room with information
+
+
+![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap03.png?raw=true)
 - when user leave
 
-![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/04.png?raw=true)
-- server log, saved as text log file
+
+![Preview](https://github.com/BaeJuneHyuck/PyChatGUI/blob/master/snapshot/snap01.png?raw=true)
+- server with log
 
 
 # Update
 -------------------------------------------------------
 0827
 first commit
+
+0830
++ waiting room
